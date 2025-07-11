@@ -44,8 +44,7 @@ org.example.bookStore/
 │   ├── BookStoreSystem.java        # Main bookstore service
 │   ├── ShippingService.java        # Handles shipping
 │   └── MailService.java            # Handles email delivery
-└── test/
-    └── QuantumBookstoreFullTest.java # Test suite
+└──── Main.java 
 ```
 
 ## Getting Started
