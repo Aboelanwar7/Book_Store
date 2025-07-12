@@ -86,8 +86,13 @@ The system handles various error scenarios:
 - **Showcase Purchase**: When trying to buy a showcase book
 - **Outdated Books**: Automatic removal based on age criteria
 
+  ## Sample Test case
+  <img width="1536" height="839" alt="Screenshot 2025-07-12 005016" src="https://github.com/user-attachments/assets/2086723e-6641-418a-86fc-16bccae40ff1" />
+  <img width="1010" height="97" alt="Screenshot 2025-07-12 005638" src="https://github.com/user-attachments/assets/e8d2c59c-4823-4de5-80b3-046b37de06b5" />
+
 ## Dependencies
 
 - **Lombok**: Used for reducing boilerplate code with annotations
   - `@AllArgsConstructor`
   - `@Getter`
+
